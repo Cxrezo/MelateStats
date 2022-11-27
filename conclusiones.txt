@@ -1,0 +1,9 @@
+Podemos concluir que los 7 números más comunes en el melate son:
+32 
+13
+37
+12
+5
+15
+20
+
